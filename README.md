@@ -1,2 +1,4 @@
 # GrippingForcePrediction
-Recording both EMG raw signals and gripping force simultaneously, followed by signal processing and prediction of the gripping force from EMG signals
+Recording both EMG raw signals and gripping force simultaneously during precision-type gripping and signal processing
+EMG signals are recorded via a Myo armband from Thalmiclabs
+Gripping force is the Z-axis force measured using a F/T sensor:mini 45 from ATI Industrial Automation Inc.
