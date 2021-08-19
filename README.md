@@ -9,6 +9,8 @@ Repository for gripping force prediction with the goal of gripping control of a 
       
 2. Signal processing
 
+      Signals are smoothed and noise is reduced via notch and band-pass filters.
+
 3. Dataset
 
       Data is derived form 10 healthy subjects with an average age of 23.8 years old (9 males and one female).
