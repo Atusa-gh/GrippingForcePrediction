@@ -11,7 +11,18 @@ Repository for gripping force prediction with the goal of gripping control of a 
 
 3. Dataset
 
-      Data is derived form 10 healthy subjects with an average age of 23.8 years old (9 males and one female)
+      Data is derived form 10 healthy subjects with an average age of 23.8 years old (9 males and one female).
+
+4. Force prediction
+
+      Gripping force is predicted using MLP, simple RNN, GRU and LSTM neural networks.
+      
+5. Visualization
+
+      Performance of different networks with prediction horizens of 1-12 is plotted.
+      
+      Error Distributions of all implemented networks are shown in a boxplot.
+      
       
 
 
